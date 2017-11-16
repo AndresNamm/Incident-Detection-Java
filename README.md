@@ -3,11 +3,11 @@
 ## Folder Structure 
 
 ```
-project
+data
 │   README.md
 │   file001.txt    
 │
-└───folder1
+└───GPS_data
 │   │   file011.txt
 │   │   file012.txt
 │   │
@@ -16,7 +16,8 @@ project
 │       │   file112.txt
 │       │   ...
 │   
-└───folder2
+└───incident_detection
     │   file021.txt
     │   file022.txt
+|___label_data
 ```
